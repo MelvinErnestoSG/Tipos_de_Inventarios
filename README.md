@@ -1,1 +1,1 @@
-Tipos de Inventarios
+# Tipos de Inventarios
